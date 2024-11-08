@@ -14,7 +14,7 @@
         <p>
             <strong>
                 Software Engineer, Back-End Developer, Problem Solver, and Freelancer.<br><br>
-                I specialize in Laravel Framework and php and I have experience working with Client Language Technologies , Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills with Design Pattern.<br><br>
+                I specialize in Laravel Framework and php and I have experience working with Client Language Technologies , Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate about learning Laravel, all Back-End Technologies, Web 3, Cloud Computing, and DevOps.<br><br>
             </strong>
         </p>
